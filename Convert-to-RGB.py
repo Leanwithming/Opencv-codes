@@ -24,3 +24,4 @@ for img in glob.glob(img_path + '/*.*'):
 
     except:
         print("not saved")
+        print("!")
